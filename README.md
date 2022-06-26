@@ -12,7 +12,7 @@
 <br>
 ##### Follow me on:
 
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/neocities.png" style="width:28px;height:24px;" /> [Neocities.org](https://neocities.org/site/ff99cc)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/neocities.png" style="width:26px;height:24px;" /> [Neocities.org](https://neocities.org/site/ff99cc)
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/mastodon.png" style="width:24px;" /> [Mastodon.social](https://mas.to/@fftcc)
 <br>
 <br>
